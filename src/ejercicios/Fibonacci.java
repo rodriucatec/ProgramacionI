@@ -22,6 +22,8 @@ public class Fibonacci {
         //1 variable de tipo cadena donde almacenamos cada numero de la serie
         String cadena = "";
 
+        System.out.println("Ingrese el limite para la serie de Fibonacci:");
+
         //Herramienta que nos permite leer de teclado
         Scanner scan = new Scanner(System.in);
 
